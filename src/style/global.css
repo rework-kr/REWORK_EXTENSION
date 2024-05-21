@@ -1,0 +1,21 @@
+:root, button, input, textarea {
+  font-family: Pretendard !important;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.4rem;
+  color: #4E5968;
+  width: 100dvw;
+  height: 100dvh;
+  min-width: 70rem;
+  min-height: 50rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+}
