@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "version": "1.0.0",
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Rework",
+  "name": "Rework",
   "action": {
     "default_popup": "index.html"
   },
